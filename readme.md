@@ -11,6 +11,8 @@ details.
 
 All quotes are sourced from https://en.wikiquote.org
 
-Linus Tarvalds
-Larry Wall
-Alan Kay
+- Linus Tarvalds
+- Larry Wall
+- Alan Kay
+- Martin Fowler
+- Bjarne Stroustrup
